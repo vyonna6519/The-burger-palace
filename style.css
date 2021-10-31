@@ -59,8 +59,12 @@ a.active,a:hover{
 }
 .menu-card{
     float: left;
-    width: 33.33%;
+    width: 33%;
     padding: 5px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-top: 12px;
+    margin-right: 2px;
 
 }
 .menu::after{
@@ -104,4 +108,18 @@ a.active,a:hover{
 .f2 div {
     width: 33.33%;
     padding: 5px;
+}
+
+.discover {
+    display: flex;
+    flex-direction: row;
+    background-color: #F6B400;
+    height: 400px;
+    padding-bottom: 120px;
+    padding-top: 120px;
+    padding-left: 160px;
+}
+
+.discover div {
+    width: 50%;
 }
