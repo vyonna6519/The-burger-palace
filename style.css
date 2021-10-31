@@ -83,11 +83,14 @@ a.active,a:hover{
 
 .icon img {
     float: right;
+    padding :20px;
 }
 
 .sec0{
     display: flex;
     flex-direction: row;
+    font-family: Arial;
+    column-count: 3;
 }
 
 .f1 {
@@ -117,9 +120,48 @@ a.active,a:hover{
     height: 400px;
     padding-bottom: 120px;
     padding-top: 120px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     padding-left: 160px;
 }
+
 
 .discover div {
     width: 50%;
 }
+.sec0{
+    display: flex;
+    flex-direction: row;
+    height: 400px;
+    padding-bottom: 120px;
+    padding-top: 120px;
+    padding-left: 160px;
+}
+
+.
+    
