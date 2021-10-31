@@ -42,3 +42,18 @@ a.active,a:hover{
     transition: .5s;
 }
 
+.socials img {
+    height: 30px;
+    width: 30px;
+}
+.card{
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+
+}
+.sec1::after{
+    content: "";
+  clear: both;
+  display: table;
+}
