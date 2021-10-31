@@ -54,6 +54,54 @@ a.active,a:hover{
 }
 .sec1::after{
     content: "";
-  clear: both;
-  display: table;
+    clear: both;
+    display: table;
+}
+.menu-card{
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+
+}
+.menu::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.tagline{
+    width: 50%;
+}
+
+.icon{
+    width: 50%;
+}
+
+.icon img {
+    float: right;
+}
+
+.sec0{
+    display: flex;
+    flex-direction: row;
+}
+
+.f1 {
+    display: flex;
+    flex-direction: row;
+}
+
+.f1 div {
+    width: 33.33%;
+    padding: 5px;
+}
+
+.f2 {
+    display: flex;
+    flex-direction: row;
+}
+
+.f2 div {
+    width: 33.33%;
+    padding: 5px;
 }
