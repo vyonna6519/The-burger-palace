@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
     text-decoration:none;
-    list-style: none
+    list-style: none;
     box-sizing: border-box;
 }
 body{
@@ -12,7 +12,8 @@ nav{
    background: #ffffff;
    height: 80px;
    width: 100;
-}label.logo{
+}
+label.logo{
     color:rgb(20, 19, 19);
     float:unset;
     font-size: 35px;
