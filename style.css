@@ -46,6 +46,10 @@ a.active,a:hover{
     height: 30px;
     width: 30px;
 }
+.custom-size{
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
 .card{
     float: left;
     width: 33.33%;
