@@ -92,10 +92,13 @@ a.active,a:hover{
     font-family: Arial;
     column-count: 3;
     justify-content: space-between;
-    height: 400px;
+    height: 700px;
     width: 100%;
     padding-top: 120px;
     padding-left: 160px;
+    background-image: url(/images/Untitled\ \(1\).png);
+    background-repeat: no-repeat ;
+    background-size: cover;
 }
 
 .f1 {
