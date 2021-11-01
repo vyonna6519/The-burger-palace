@@ -91,6 +91,11 @@ a.active,a:hover{
     flex-direction: row;
     font-family: Arial;
     column-count: 3;
+    justify-content: space-between;
+    height: 400px;
+    width: 100%;
+    padding-top: 120px;
+    padding-left: 160px;
 }
 
 .f1 {
@@ -120,23 +125,31 @@ a.active,a:hover{
     height: 400px;
     padding-bottom: 120px;
     padding-top: 120px;
+    padding-left: 160px;
+
 }
-padding-left: 160px;
-}
+
 
 
 .discover div {
     width: 50%;
 }
-.sec0{
+
+.menu{
+text-align: center;
+float:right;
+}
+
+ .decker{
     display: flex;
     flex-direction: row;
+    font-family: Arial;
+    column-count: 3;
+    justify-content: space-between;
     height: 400px;
-    padding-bottom: 120px;
+    width: 100%;
     padding-top: 120px;
     padding-left: 160px;
 }
-.menu{
-text-align: center
-style;float;right: ;
-}
+
+
