@@ -49,6 +49,8 @@ a.active,a:hover{
 .custom-size{
     margin-top: 150px;
     margin-bottom: 50px;
+    font-weight: bold;
+  
 }
 .card{
     float: left;
@@ -158,5 +160,7 @@ float:right;
     padding-top: 120px;
     padding-left: 160px;
 }
-
+sec1{
+    box shadow: 0 5ox 9px 0;
+}
 
