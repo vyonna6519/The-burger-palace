@@ -1,4 +1,4 @@
-# {Burger Palace}
+# Burger Palace
 #### {This is a webpage for burger palace restuarant , {31/10/21}
 #### By  Vyonna Njenga
 ## Description
