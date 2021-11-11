@@ -5,8 +5,7 @@
     list-style: none;
     box-sizing: border-box;
 }
-body{
-    font-family: monteserat;
+
 }
 nav{
    background: #ffffff;
@@ -138,7 +137,9 @@ a.active,a:hover{
 
 }
 
-
+.clr {
+    color: #F6B400;
+}
 
 .discover div {
     width: 50%;
@@ -162,5 +163,10 @@ float:right;
 }
 .sec1{
     box-shadow: 0 5ox 9px 0;
+}
+.btn{
+    color: white;
+    background-color: #F6B400;
+    
 }
 
