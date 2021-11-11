@@ -196,8 +196,15 @@ float:right;
 }
 .btn{
     color: white;
-  
+    border: none;
+  background-color: #F6B400;
+  padding: 15px;
+  border-radius: 20px;
 
+}
+
+.tagline p{
+    padding: 10px;
 }
 .image{
     margin-left: 50px;
