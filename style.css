@@ -48,13 +48,10 @@ a.active,a:hover{
 .custom-size{
     margin-top: 150px;
     margin-bottom: 50px;
-    font-weight: bold;
+    font-size: 40px;
   
 }
-.card{
-    float: left;
-    width: 33.33%;
-    padding: 5px;
+
 
 }
 .sec1::after{
@@ -64,12 +61,16 @@ a.active,a:hover{
 }
 .menu-card{
     float: left;
-    width: 33%;
-    padding: 5px;
+    width: 350px;
+    height:400px ;
+    padding: 50px;
     border: 1px solid black;
     border-radius: 10px;
     margin-top: 12px;
     margin-right: 2px;
+    box-shadow: 0px 4px 8px 0px rgba(0, 0 ,0,0.5);
+    margin-left: 100px;
+    
 
 }
 .menu::after{
@@ -148,6 +149,10 @@ a.active,a:hover{
 .menu{
 text-align: center;
 float:right;
+
+}
+.menu h1{
+    font-size: 35px;
 }
 
  .decker{
@@ -161,12 +166,42 @@ float:right;
     padding-top: 120px;
     padding-left: 160px;
 }
-.sec1{
-    box-shadow: 0 5ox 9px 0;
+.card{
+
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    margin: 50px;
+    height: 400px;
+    width: 450px;
+    border: 1px solid #111;
+   text-align: center;
+    border-radius: 10px;
+    padding: 50px;
+
+}
+.container{
+    padding: 50px;
+}
+.container h2{
+    padding: 20px;
 }
 .btn{
     color: white;
-    background-color: #F6B400;
-    
+  
+
+}
+.image{
+    margin-left: 50px;
+}
+.slider{
+   
+    align-items: center;
+    ;
 }
 
+.double{
+    display: flex;
+    padding-right: 500px;
+    padding-top: -300px;
+}
