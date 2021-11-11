@@ -102,7 +102,7 @@ a.active,a:hover{
     width: 100%;
     padding-top: 120px;
     padding-left: 160px;
-    background-image: url(/images/Untitled\ \(1\).png);
+    background-image: url(images/Untitled\ \(1\).png);
     background-repeat: no-repeat ;
     background-size: cover;
 }
@@ -160,7 +160,7 @@ float:right;
     padding-top: 120px;
     padding-left: 160px;
 }
-sec1{
+.sec1{
     box-shadow: 0 5ox 9px 0;
 }
 
