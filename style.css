@@ -12,13 +12,16 @@ nav{
    height: 80px;
    width: 100;
 }
-label.logo{
+.logo{
     color:rgb(20, 19, 19);
     float:unset;
     font-size: 35px;
     line-height: 50px;
-    padding: 0 100px;
     font-weight:bolder;
+}
+
+label .logo{
+    padding-bottom: 0px;
 }
 nav ul{
     float: right;
@@ -35,7 +38,11 @@ nav ul li a{
   font-size: 30px;
   padding: 7px 13px;
   border-radius: 3px;
-  text-transform: lowercase;
+ 
+}
+.header{
+    background-image: url(images/Untitled\ \(1\).png);
+    background-size: cover;
 }
 a.active,a:hover{
     background: white;
@@ -102,7 +109,6 @@ a.active,a:hover{
     width: 100%;
     padding-top: 120px;
     padding-left: 160px;
-    background-image: url(images/Untitled\ \(1\).png);
     background-repeat: no-repeat ;
     background-size: cover;
 }
@@ -136,7 +142,7 @@ a.active,a:hover{
     display: flex;
     flex-direction: row;
     background-color: #F6B400;
-    height: 400px;
+    height: 6000px;
     align-items: center;
     padding: 250px;
 
@@ -198,7 +204,8 @@ float:right;
     color: white;
     border: none;
   background-color: #F6B400;
-  padding: 15px;
+  margin-top: 50px;
+  padding: 20px;
   border-radius: 20px;
 
 }
