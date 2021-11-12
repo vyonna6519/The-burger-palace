@@ -1,10 +1,10 @@
-<<<<<<< HEAD
-# OURSERVICES
-OURSERVICES 
+
+# The burger palace
+The burger palace
 ## Author
 Vyonna Njenga
 ### Description
-the website entails more about burger-palace
+The website entails more about burger-palace.
 ### Prerequisities
 You need to have git installed
 You can install it with the following command in your terminal
@@ -21,7 +21,7 @@ To access this project on your local files, you can clone it using these steps
 1. CSS
 1. Git
 ### Live Site
-View [Live] 
+View [Live](https://vyonna6519.github.io/The-burger-palace/)
 ### Licence
 This project is under the  [MIT](license) license
 =======
