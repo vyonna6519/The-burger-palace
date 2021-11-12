@@ -1,5 +1,6 @@
+<<<<<<< HEAD
 # OURSERVICES
-OURSERVICES https://github.com/Venus-Kavunza/OURSERVICES.git
+OURSERVICES 
 ## Author
 Vyonna Njenga
 ### Description
@@ -12,7 +13,7 @@ You can install it with the following command in your terminal
 To access this project on your local files, you can clone it using these steps
 1. Open your terminal
 1. Use this command to clone `$ git clone
-https://github.com/Venus-Kavunza/OURSERVICES.git
+
 1. This will clone the repository into your local folder
 1. __Enjoy :)__:)__
 ### Technologies Used
@@ -20,6 +21,8 @@ https://github.com/Venus-Kavunza/OURSERVICES.git
 1. CSS
 1. Git
 ### Live Site
-View [Live] https://github.com/Venus-Kavunza/OURSERVICES.git
+View [Live] 
 ### Licence
 This project is under the  [MIT](license) license
+=======
+
