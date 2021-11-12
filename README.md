@@ -1,21 +1,25 @@
-# {Burger Palace}
-#### {This is a webpage for burger palace restuarant , {31/10/21}
-#### By  Vyonna Njenga
-## Description
-The website shows information about burger palace .It displays the menu,prices ,variety of burgers and the contact information.
-## Setup/Installation Requirements
-1. instal visual studio
-2.instal Git
-3.creat github account
-4. creat repository
-5.Design 
-6. put it into use
-## Known Bugs
-no bugs
-## Technologies Used
-Html and css
-## Support and contact details
-njengavyonna@gmail.com
-### License
-Copyright (c) (2021) vyonna Njenga
-  
+# OURSERVICES
+OURSERVICES https://github.com/Venus-Kavunza/OURSERVICES.git
+## Author
+Vyonna Njenga
+### Description
+the website entails more about burger-palace
+### Prerequisities
+You need to have git installed
+You can install it with the following command in your terminal
+`$ sudo apt install git-all`
+### Setup
+To access this project on your local files, you can clone it using these steps
+1. Open your terminal
+1. Use this command to clone `$ git clone
+https://github.com/Venus-Kavunza/OURSERVICES.git
+1. This will clone the repository into your local folder
+1. __Enjoy :)__:)__
+### Technologies Used
+1. HTML
+1. CSS
+1. Git
+### Live Site
+View [Live] https://github.com/Venus-Kavunza/OURSERVICES.git
+### Licence
+This project is under the  [MIT](license) license
